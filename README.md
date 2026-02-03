@@ -1,6 +1,6 @@
 # 📦 Excel Stock Management System (Demo)
 
-Sistema lógico de gestión de stock desarrollado en **Excel**, enfocado en el control, análisis y seguimiento de inventario.
+Sistema lógico de gestión de stock desarrollado en **Excel** para la empresa **Evernex**, enfocado en el control, análisis y seguimiento de inventario.
 
 > ⚠️ **Disclaimer**  
 > Este proyecto es una **réplica demostrativa** con datos ficticios.  
